@@ -1,5 +1,5 @@
 # Covid-19-Mask-Tracker
-This is a project that measures the air flow through your mask and notifies you when your breath within a mask is reaching a dangerously high or low level.
+This is a project that measures the air flow through your mask and notifies you when your breath within a mask is reaching a dangerously high level. And allow you to look at your past data to avoid health problems that might be caused while wearing a mask.
 
 It includes:
 - Arduino x2
