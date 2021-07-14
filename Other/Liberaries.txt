@@ -1,0 +1,2 @@
+CO2 Liberary - https://wiki.keyestudio.com/KS0457_keyestudio_CCS811_Carbon_Dioxide_Air_Quality_Sensor
+RadioHead - Transciever Liberary
